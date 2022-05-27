@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344128976001",
+    "project_id": "aiolos-3d6b2",
+    "storage_bucket": "aiolos-3d6b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344128976001:android:cfaa5a65479a5aff00c980",
+        "android_client_info": {
+          "package_name": "com.example.aiolos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344128976001-mi8olv2df9q12peoft032adsoh916sa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aiolos",
+            "certificate_hash": "cf78b5fafe637dea6361f42c69b53da37fa0becf"
+          }
+        },
+        {
+          "client_id": "344128976001-d1q7jok38mjj9p4mh2g0q3fo66dq0m27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIF0TJMKXsaxMS_ZlT867ck7KW4OxZnQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344128976001-d1q7jok38mjj9p4mh2g0q3fo66dq0m27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
